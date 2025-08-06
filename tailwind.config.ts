@@ -61,6 +61,14 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				wedding: {
+					brown: '#8B7355',
+					olive: '#A0956B',
+					cream: '#E8DCC0',
+					beige: '#F5F1E8',
+					white: '#FFFFFF',
+					text: '#2C2416'
 				}
 			},
 			borderRadius: {
@@ -89,6 +97,10 @@ export default {
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
 				'accordion-up': 'accordion-up 0.2s ease-out'
+			},
+			fontFamily: {
+				'cormorant': ['Cormorant', 'serif'],
+				'open-sans': ['Open Sans', 'sans-serif']
 			}
 		}
 	},
