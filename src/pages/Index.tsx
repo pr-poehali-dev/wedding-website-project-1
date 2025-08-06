@@ -12,7 +12,7 @@ const Index = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-30"
           style={{
-            backgroundImage: `url('/img/10430294-3c9f-498b-af22-808abca5bc49.jpg')`
+            backgroundImage: `url('/img/a7f0e343-f458-46e4-9063-ee5a70c2741a.jpg')`
           }}
         ></div>
         <div className="relative z-10 text-center px-4">
@@ -120,7 +120,7 @@ const Index = () => {
             <div 
               className="h-64 bg-cover bg-center rounded-lg shadow-lg"
               style={{
-                backgroundImage: `url('/img/8969829a-0d73-40e4-ac40-59184df707bd.jpg')`
+                backgroundImage: `url('/img/addab1e2-cf48-4916-b5a6-bf5cb093e51b.jpg')`
               }}
             ></div>
           </div>
@@ -195,19 +195,19 @@ const Index = () => {
             <div 
               className="aspect-square bg-cover bg-center rounded-lg shadow-lg"
               style={{
-                backgroundImage: `url('/img/10430294-3c9f-498b-af22-808abca5bc49.jpg')`
+                backgroundImage: `url('/img/a7f0e343-f458-46e4-9063-ee5a70c2741a.jpg')`
               }}
             ></div>
             <div 
               className="aspect-square bg-cover bg-center rounded-lg shadow-lg"
               style={{
-                backgroundImage: `url('/img/2f560cea-5b9e-403c-a191-db6707be751b.jpg')`
+                backgroundImage: `url('/img/55a052df-e26c-45c7-9a67-55e6f3a05fb4.jpg')`
               }}
             ></div>
             <div 
               className="aspect-square bg-cover bg-center rounded-lg shadow-lg"
               style={{
-                backgroundImage: `url('/img/8969829a-0d73-40e4-ac40-59184df707bd.jpg')`
+                backgroundImage: `url('/img/addab1e2-cf48-4916-b5a6-bf5cb093e51b.jpg')`
               }}
             ></div>
           </div>
@@ -234,7 +234,7 @@ const Index = () => {
               <div 
                 className="h-48 bg-cover bg-center"
                 style={{
-                  backgroundImage: `url('/img/8969829a-0d73-40e4-ac40-59184df707bd.jpg')`
+                  backgroundImage: `url('/img/addab1e2-cf48-4916-b5a6-bf5cb093e51b.jpg')`
                 }}
               ></div>
               <CardContent className="p-6">
@@ -258,7 +258,7 @@ const Index = () => {
               <div 
                 className="h-48 bg-cover bg-center"
                 style={{
-                  backgroundImage: `url('/img/2f560cea-5b9e-403c-a191-db6707be751b.jpg')`
+                  backgroundImage: `url('/img/55a052df-e26c-45c7-9a67-55e6f3a05fb4.jpg')`
                 }}
               ></div>
               <CardContent className="p-6">
