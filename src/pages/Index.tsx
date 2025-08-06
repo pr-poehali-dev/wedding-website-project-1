@@ -12,7 +12,7 @@ const Index = () => {
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-30"
           style={{
-            backgroundImage: `url('/img/5a3e1d7b-5db1-4b6c-a73f-34bef635a899.jpg')`
+            backgroundImage: `url('/img/10430294-3c9f-498b-af22-808abca5bc49.jpg')`
           }}
         ></div>
         <div className="relative z-10 text-center px-4">
@@ -120,7 +120,7 @@ const Index = () => {
             <div 
               className="h-64 bg-cover bg-center rounded-lg shadow-lg"
               style={{
-                backgroundImage: `url('/img/0f93b100-0e59-4330-801c-9c143f67915f.jpg')`
+                backgroundImage: `url('/img/8969829a-0d73-40e4-ac40-59184df707bd.jpg')`
               }}
             ></div>
           </div>
@@ -185,6 +185,44 @@ const Index = () => {
         </div>
       </section>
 
+      {/* Photo Gallery Section */}
+      <section className="py-20 px-4 bg-white">
+        <div className="max-w-4xl mx-auto">
+          <h2 className="font-cormorant text-5xl font-light text-wedding-text text-center mb-16">
+            ФОТОГРАФИИ
+          </h2>
+          <div className="grid md:grid-cols-3 gap-6 mb-12">
+            <div 
+              className="aspect-square bg-cover bg-center rounded-lg shadow-lg"
+              style={{
+                backgroundImage: `url('/img/10430294-3c9f-498b-af22-808abca5bc49.jpg')`
+              }}
+            ></div>
+            <div 
+              className="aspect-square bg-cover bg-center rounded-lg shadow-lg"
+              style={{
+                backgroundImage: `url('/img/2f560cea-5b9e-403c-a191-db6707be751b.jpg')`
+              }}
+            ></div>
+            <div 
+              className="aspect-square bg-cover bg-center rounded-lg shadow-lg"
+              style={{
+                backgroundImage: `url('/img/8969829a-0d73-40e4-ac40-59184df707bd.jpg')`
+              }}
+            ></div>
+          </div>
+          <div className="text-center">
+            <Button 
+              variant="outline" 
+              className="border-wedding-brown text-wedding-brown hover:bg-wedding-brown hover:text-white px-8 py-3 rounded-full"
+            >
+              <Icon name="Camera" size={20} className="mr-2" />
+              Смотреть все фотографии
+            </Button>
+          </div>
+        </div>
+      </section>
+
       {/* Hotels Section */}
       <section className="py-20 px-4 bg-wedding-beige">
         <div className="max-w-4xl mx-auto">
@@ -196,7 +234,7 @@ const Index = () => {
               <div 
                 className="h-48 bg-cover bg-center"
                 style={{
-                  backgroundImage: `url('/img/881972a2-0176-4fee-950a-e805fe56f27f.jpg')`
+                  backgroundImage: `url('/img/8969829a-0d73-40e4-ac40-59184df707bd.jpg')`
                 }}
               ></div>
               <CardContent className="p-6">
@@ -220,7 +258,7 @@ const Index = () => {
               <div 
                 className="h-48 bg-cover bg-center"
                 style={{
-                  backgroundImage: `url('/img/881972a2-0176-4fee-950a-e805fe56f27f.jpg')`
+                  backgroundImage: `url('/img/2f560cea-5b9e-403c-a191-db6707be751b.jpg')`
                 }}
               ></div>
               <CardContent className="p-6">
